@@ -7,6 +7,7 @@ public class AAA {
 	public static void main(String[] args) {
 		AAA x = new AAA();
 		System.out.println(x.c);
+		System.out.println(x.a);
 	}
 
 }
