@@ -8,7 +8,7 @@ public class AAA {
 		AAA x = new AAA();
 		System.out.println(x.c);
 		System.out.println(x.a);
-		System.out.println(x.b);
+		System.out.println("Nandhakumar jenkins examples plz must watch");
 	}
 
 }
